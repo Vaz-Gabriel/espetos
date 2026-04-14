@@ -4,7 +4,7 @@
    CONSTANTES
    ============================ */
 const TAXA_ENTREGA  = 5;
-const HORA_ABERTURA = 10;
+const HORA_ABERTURA = 18;
 const HORA_FECHAMENTO = 23;
 const WHATSAPP_NUM  = '5517988233089';
 
